@@ -1,4 +1,4 @@
-sudo pacman -S waybar rofi-wayland playerctl brightnessctl foot neovim pactl grim slurp ristretto
+sudo pacman -S waybar rofi-wayland playerctl brightnessctl foot neovim pactl grim slurp ristretto impala bluetui
 
 cp hypr/* ~/.config/hypr/
 
