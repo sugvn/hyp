@@ -1,7 +1,9 @@
-sudo pacman -S waybar rofi-wayland playerctl brightnessctl foot neovim
+sudo pacman -S waybar rofi-wayland playerctl brightnessctl foot neovim pactl grim slurp ristretto
 
 cp hypr/* ~/.config/hypr/
 
 cp rofi-wayland/* ~/.config/rofi/
+
+cp waybar/* ~/.config/waybar/
 
 git clone https://github.com/NvChad/starter ~/.config/nvim 
